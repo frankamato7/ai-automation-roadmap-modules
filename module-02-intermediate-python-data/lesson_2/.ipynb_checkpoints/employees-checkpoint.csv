@@ -1,0 +1,11 @@
+employee_id,name,department,salary,years_at_company,age
+1,Frank,Engineering,95000,3,28
+2,Sarah,Marketing,72000,2,26
+3,Jason,Sales,68000,4,31
+4,Amanda,Engineering,105000,6,34
+5,Luke,HR,58000,1,24
+6,Emily,Finance,83000,5,30
+7,Kevin,Engineering,99000,4,29
+8,Olivia,Sales,64000,2,25
+9,Daniel,Finance,90000,7,36
+10,Sophia,Marketing,76000,3,27

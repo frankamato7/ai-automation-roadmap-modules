@@ -1,28 +1,42 @@
-# Python Fundamentals Mini-Projects
+# AI Automation Roadmap – What I Learned So Far
 
-This repository contains the Python mini-projects I’m building as I refresh and strengthen my core programming skills. These projects follow my 10-week AI Automation Career Roadmap and focus on solid fundamentals before moving into APIs, LLMs, and full AI apps.
+## Overview
+This repo contains everything I have learned on my AI automation roadmap self-taught journey:
+- Following a 10-module AI automation roadmap
+- Each module has lessons with code, notebooks, and mini-projects
 
-## ✅ Concepts Practiced So Far
+## Module Index
+- [Module 1 – Python Fundamentals](module-01-python-fundamentals/README.md)
+- [Module 2 – Intermediate Python + Data Handling](module-02-intermediate-python-data/README.md)
+- (Add modules 3–10 as you reach them)
 
-- Running Python scripts from VS Code and the terminal
-- `print()`, variables, and basic arithmetic
-- User input and `int()` casting
-- Control flow: `if / elif / else`, `while` loops
-- Working with Python data structures: lists, dictionaries, sets, tuples
-- Using the `random` module for simple game logic
-- Defining and calling functions
-- Creating and importing your own Python modules
-- File handling: reading, writing, appending, and checking file existence
-- Git and GitHub basics (init, add, commit, push)
+## What I Learned So Far
 
-## 📁 Mini-Projects Included
+### Python & Core Programming
+- Writing and running Python scripts (VS Code + Terminal)
+- Variables, user input, casting, arithmetic, conditionals, loops
+- Data structures: lists, dicts, sets, tuples
+- Functions, modules, imports, basic debugging
+- File I/O: read, write, append, existence and size checks 
 
-- **hello.py** – First Python script
-- **mini_calculator.py** – Interactive calculator using user input and arithmetic
-- **number_guessing_game.py** – Replayable number guessing game with loops, conditionals, and randomness
-- **todo_cli_app.py** – Command-line To-Do List app with add/view/remove/clear options
-- **calculator.py** – Reusable calculator module with arithmetic functions
-- **calculator_app.py** – CLI calculator that imports the calculator module and performs operations
-- **notes_app.py** – Notes app with create, read, append, and delete capabilities using `.txt` files
+### NumPy & pandas
+- 1D & 2D arrays, shapes, indexing, vectorized math, stats
+- Loading CSVs into DataFrames, filtering, sorting, groupby, merges
+- Handling missing values, joins, multi-aggregation
+- Building a full Data Explorer workflow over a retail dataset 
 
-More Python fundamentals mini-projects will be added here as I progress through the roadmap. While I already had experience using Python before this, I chose to start from scratch so I can properly document my progress for the record.
+### SQL & Pipelines
+- SELECT, WHERE, ORDER BY, GROUP BY
+- INNER JOIN across `sales` and `products`
+- Revenue by category, product, and day
+- Running SQL inside Python using `pd.read_sql_query`
+- Building a SQL → pandas → visualization → CSV pipeline 
+
+### Git & Workflow
+- Staging, committing, pushing, rebasing
+- Clean repo structure and project-level READMEs
+- Organizing by modules and lessons for a long-term learning roadmap 
+
+(You can compress/trim as you go, but this is a solid starting shape.)
+
+Going forward, at the end of each session we’ll just add/update bullets in these sections rather than maintaining a separate doc.
