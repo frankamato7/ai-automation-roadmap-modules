@@ -18,3 +18,11 @@
   - Open-Meteo weather API
 - Extracted specific values from nested JSON
 - Built a basic API testing notebook
+
+### Lesson 2 – Weather Dashboard CLI (11/28/25)
+- Built a command-line weather tool in Python
+- Implemented dynamic city lookup using Open-Meteo geocoding
+- Retrieved live weather data via API
+- Parsed nested JSON responses
+- Formatted output cleanly (temperature, wind speed)
+- Included error handling for unknown cities and missing coordinates

@@ -43,6 +43,11 @@ This repo contains everything I have learned on my AI automation roadmap self-ta
 - Parsing and navigating JSON responses
 - Calling multiple public APIs
 - Extracting nested dictionaries from real-world API responses
+- Built a full CLI weather dashboard using Python
+- Used geocoding to convert city names into coordinates dynamically
+- Parsed structured JSON from Open-Meteo
+- Built CLI tools using `sys.argv`
+- Added error handling for invalid input and missing data
 
 (You can compress/trim as you go, but this is a solid starting shape.)
 
