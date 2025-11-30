@@ -26,3 +26,12 @@
 - Parsed nested JSON responses
 - Formatted output cleanly (temperature, wind speed)
 - Included error handling for unknown cities and missing coordinates
+
+### Lesson 3 - Crypto Price Automation Bot (11/30/25)
+- Built a CLI crypto price alert bot using Python
+- Queried CoinGecko API for real-time cryptocurrency prices
+- Supported multiple cryptocurrency symbols dynamically
+- Used loops and time delays for continuous monitoring
+- Added user-defined alert thresholds
+- Logged alerts to a file with timestamps
+- Implemented error handling for bad inputs and unavailable coins

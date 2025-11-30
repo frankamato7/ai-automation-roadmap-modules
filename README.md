@@ -49,6 +49,15 @@ This repo contains everything I have learned on my AI automation roadmap self-ta
 - Built CLI tools using `sys.argv`
 - Added error handling for invalid input and missing data
 
+### Lesson 3 – Crypto Price Alert Bot
+- Created an automated crypto monitoring script
+- Pulled live price data from CoinGecko API
+- Implemented multi-coin support (Bitcoin, Ethereum, Solana, etc.)
+- Set user-defined alert thresholds
+- Added a monitoring loop with timed intervals
+- Logged alerts to a local file for tracking
+- Added clean error handling for invalid coins or API issues
+
 (You can compress/trim as you go, but this is a solid starting shape.)
 
 Going forward, at the end of each session we’ll just add/update bullets in these sections rather than maintaining a separate doc.
