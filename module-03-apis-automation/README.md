@@ -35,3 +35,12 @@
 - Added user-defined alert thresholds
 - Logged alerts to a file with timestamps
 - Implemented error handling for bad inputs and unavailable coins
+
+### Lesson 4 — Task Scheduling + Daily Email Summary (12/01/25)
+- Learned how to use APScheduler for automated tasks
+- Created a scheduled job that runs on an interval or cron schedule
+- Pulled real API data (Bitcoin price + NYC weather)
+- Composed a summary message programmatically
+- Sent automated emails using SMTP + env variables
+- Handled authentication errors and secure credential storage
+- Built a complete daily summary automation script

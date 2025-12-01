@@ -58,6 +58,14 @@ This repo contains everything I have learned on my AI automation roadmap self-ta
 - Logged alerts to a local file for tracking
 - Added clean error handling for invalid coins or API issues
 
+### Scheduling & Email Automation
+- Used APScheduler to run automated Python tasks
+- Built a daily summary job combining multiple API calls
+- Sent emails programmatically via SMTP
+- Used environment variables to store sensitive credentials
+- Implemented error handling for authentication and connection failures
+- Completed my first end-to-end scheduled automation script
+
 (You can compress/trim as you go, but this is a solid starting shape.)
 
 Going forward, at the end of each session we’ll just add/update bullets in these sections rather than maintaining a separate doc.
