@@ -66,6 +66,14 @@ This repo contains everything I have learned on my AI automation roadmap self-ta
 - Implemented error handling for authentication and connection failures
 - Completed my first end-to-end scheduled automation script
 
+### API Automation Pipeline
+- Built a multi-step automation pipeline combining APIs, pandas, CSV generation, and automated email delivery
+- Learned how to structure reusable functions for fetching, cleaning, transforming, and saving data
+- Used multipart MIME emails to attach generated files
+- Reinforced environment variable use for secure credentials
+- Completed a portfolio-ready automation project
+
+
 (You can compress/trim as you go, but this is a solid starting shape.)
 
 Going forward, at the end of each session we’ll just add/update bullets in these sections rather than maintaining a separate doc.
