@@ -23,3 +23,11 @@
   - Word-limit + language-restriction constraint prompt
 - Refined each template for clarity, boundaries, and reliability
 - Established production-style template structure for future LLM tools
+
+### Lesson 2 - OpenAI API Basics + Summarizer Tool (12/03/25)
+- Installed and configured the OpenAI Python SDK
+- Created .env for secure key storage
+- Built a warm-up script to test client connectivity
+- Implemented client.py as a reusable OpenAI wrapper
+- Built summarizer.py using prompt engineering fundamentals
+- Added CLI usage and robust API error handling
