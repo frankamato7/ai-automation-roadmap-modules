@@ -84,3 +84,13 @@ This repo contains everything I have learned on my AI automation roadmap self-ta
 (You can compress/trim as you go, but this is a solid starting shape.)
 
 Going forward, at the end of each session we’ll just add/update bullets in these sections rather than maintaining a separate doc.
+
+### OpenAI API + Summarizer Tool
+- Installed and configured openai + python-dotenv
+- Created .env and secured your Project API Key
+- Built and tested a warm-up script (hello_llm.py)
+- Created a reusable OpenAI client helper (client.py)
+- Implemented your first Python LLM tool (summarizer.py)
+- Built a CLI interface to test the tool
+- Added robust error handling for quota issues
+- Verified end-to-end functional structure of an AI tool
